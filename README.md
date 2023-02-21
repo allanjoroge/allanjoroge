@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I'm @allanjoroge
-- 🔭 I’m currently working with Java and JavaScript
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @njorogeal14n@gmail.com
+- 🔭 I’m currently working with Java
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @allanjoroge@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak three languages
 
